@@ -1,0 +1,4 @@
+influxdb
+pandas
+paho-mqtt
+matplotlib
